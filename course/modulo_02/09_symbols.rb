@@ -1,0 +1,12 @@
+puts "Jota".object_id
+puts "Jota".object_id
+puts "Jota".object_id
+puts "Jota".object_id
+puts "Jota".object_id
+puts "================"
+puts :Jota.object_id
+puts :Jota.object_id
+puts :Jota.object_id
+puts :Jota.object_id
+puts :Jota.object_id
+puts :Jota.object_id
